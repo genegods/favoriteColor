@@ -1,0 +1,13 @@
+.centered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.check{  
+    height: 60px;
+    width: 25px;
+    border-bottom: 10px solid white;
+    border-right: 10px solid white;
+    transform: rotate(45deg);
+}
